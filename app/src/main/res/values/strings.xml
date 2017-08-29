@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">扫码工具</string>
+    <string name="btn_scanner">扫码工具使用演示</string>
+
+</resources>
